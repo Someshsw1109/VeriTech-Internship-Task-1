@@ -10,6 +10,9 @@ Implementation of a responsive web page for a Company Member Team, built using H
 - Responsive design for optimal viewing on various devices.
 - Implementation of the Company Member Team Page based on the provided design reference.
 
+## Demo
+- https://veri-tech-internship-task-1.vercel.app/
+
 ## Author
 [Somesh Raj]
 
